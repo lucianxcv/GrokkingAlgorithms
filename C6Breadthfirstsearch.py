@@ -94,5 +94,5 @@ Purpose: Marks this person as already checked.
 
 return False
 Purpose: If the whole queue is exhausted and no seller is found, return False.
-
+to be reviewd
 """
